@@ -1,4 +1,4 @@
-# Projekt stoper
+# Project stoper
 Stoper
 
 ## Table of contents
