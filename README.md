@@ -1,4 +1,4 @@
-# Projekt todo-app
+# Projekt stoper
 Stoper
 
 ## Table of contents
